@@ -1,0 +1,31 @@
+Programming Languages & Tools:
+  icons:
+    - jenkins: # The : is required
+    - html5: 
+      url: \# # Optional
+    - css3-alt:
+    - python:
+    - coffee:
+      style: fa # Optional, 'fab' is default
+    - js-square:
+    - angular:
+    - react:
+    - node-js:
+    - sass:
+    - less:
+    - gulp:
+    - grunt:
+    - npm:
+
+Workflow:
+  ul:
+    - check: fa # 'fa' is optional, 'fa' is default
+      items:
+        - Mobile-First, Responsive Design
+        - Cross Browser Testing & Debugging
+        - Cross Functional Teams
+        - Agile Development & Scrum
+    - coffee:
+      items:
+        - coffie lover
+

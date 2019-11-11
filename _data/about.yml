@@ -1,0 +1,17 @@
+first_name: John
+last_name: Doe
+intro: I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
+### Optional ###
+description: Professional Developer
+author: John Doe
+email: user@example.com
+phone: 555-123-4567
+address: 123 Main St · Smalltown, · NY 12345
+social: 
+  - github:
+    url: https://github.com/williamhatcher
+  - coffee:
+    style: fa # defaults to 'fab'
+  - linkedin: # still valid YAML!!!
+  - twitter:  # the : IS needed!!!!
+  - facebook-f:

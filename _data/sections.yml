@@ -1,0 +1,12 @@
+- name: About
+  location: about.html
+- name: Experience
+  location: experience.html
+- name: Education
+  location: education.html
+- name: Skills
+  location: skills.html
+- name: Interests
+  location: interests.html
+- name: Awards
+  location: awards.html
