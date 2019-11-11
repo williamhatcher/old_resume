@@ -1,0 +1,7 @@
+---
+layout: "default"
+---
+{% for section in site.data.sections %}
+{% include {{section.location}} %}
+<hr class="m-0">
+{% endfor %}
